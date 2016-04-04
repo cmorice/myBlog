@@ -2,13 +2,8 @@
   <div class="container-fluid content" id="home">
   <div class="row">
 
-<<<<<<< HEAD
     {{ $paginator := .Paginate (where .Data.Pages "Type" "destination") }}
-=======
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "destinations" )}}
->>>>>>> eb2412623e71ddb0c87c36a35c11b22c4a2eaa4d
     {{ range $paginator.Pages }}
-     {{ if .Params.mainarticle }}
 
     <div class="list col-sm-6 col-xs-12">
           <div class="image">
@@ -27,7 +22,6 @@
           <a class="readmore" href="{{ .Permalink }}">Découvrir</a>
         </div>
     </div>
-    {{ end }}
     {{ end }}
     {{ template "_internal/pagination.html" . }}
 </div>

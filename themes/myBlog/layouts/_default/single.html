@@ -19,25 +19,23 @@
     
         </div>
 
-     <div id="moreArticles">
+                <div id="moreArticles">
           <span>Articles liés</span>
          </div>
              
-
-
       <div class="container more">        
         <div class="row">
 
-    {{ $paginator := .Paginate (where .Data.Pages "Section" "destinations" )}}
-    {{ range $paginator.Pages }}
-     {{ if not .Params.mainarticle }}
+    {{$group := .Params.group}}
+    {{ range where .Site.Pages "Params.group" $group }}
+    {{ if not (eq .Type "destination")}}
 
           <div class="moreArticle col-sm-4 col-xs-12">
             <div class="image">
-                <img src="http://themes.themegoods2.com/letsblog/wp-content/uploads/2015/07/photography_2-700x529.jpg"/>
+                <a href="{{ .Permalink }}"><img src="{{ .Params.image }}"/></a>
               </div>
               <div class="title">
-                <span>{{.Title}}</span>
+                <a href="{{ .Permalink }}"><span>{{ .Title}}</span></a>
                 <div class="postDate">
                   <span>
                     <span>{{ .Date.Format "January, 2006" }}</span>
@@ -45,9 +43,8 @@
                 </div>
              </div>
           </div>
-
-          {{ end }}
-          {{ end }}
+          {{end}}
+          {{end}}
           
         </div>
       </div>
