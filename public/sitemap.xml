@@ -8,21 +8,17 @@
   </url>
   
   <url>
-<<<<<<< HEAD
-    <loc>http://replace-this-with-your-hugo-site.com/posts/venise/</loc>
-=======
-    <loc>http://cmorice.github.io/myBlog/public/destinations/venise/</loc>
->>>>>>> eb2412623e71ddb0c87c36a35c11b22c4a2eaa4d
+    <loc>http://cmorice.github.io/myBlog/public/posts/venise/</loc>
     <lastmod>2016-04-04T13:12:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/posts/venise/venise1/</loc>
+    <loc>http://cmorice.github.io/myBlog/public/posts/venise/venise1/</loc>
     <lastmod>2016-02-04T13:12:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/posts/venise/venise2/</loc>
+    <loc>http://cmorice.github.io/myBlog/public/posts/venise/venise2/</loc>
     <lastmod>2016-01-04T13:12:48+02:00</lastmod>
   </url>
   
