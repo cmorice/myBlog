@@ -1,0 +1,52 @@
+{{ partial "header.html" . }}
+<div class="article">
+                  <div class="title">
+                    <h2>{{ .Title }}</h2>
+                    <div class="subtitle">
+                      <span>
+                        <span>{{ .Date.Format "January, 2006" }}</span>
+                      </span>
+                    </div>
+                 </div>
+                    
+      <div class="container-fluid content">
+        <div class="row">
+                <div id="content">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    
+        </div>
+
+                <div id="moreArticles">
+          <span>Articles liés</span>
+         </div>
+             
+      <div class="container more">        
+        <div class="row">
+
+    {{$group := .Params.group}}
+    {{ range where .Site.Pages "Params.group" $group }}
+    {{ if not (eq .Type "destination")}}
+
+          <div class="moreArticle col-sm-4 col-xs-12">
+            <div class="image">
+                <a href="{{ .Permalink }}"><img src="{{ .Params.image }}"/></a>
+              </div>
+              <div class="title">
+                <a href="{{ .Permalink }}"><span>{{ .Title}}</span></a>
+                <div class="postDate">
+                  <span>
+                    <span>{{ .Date.Format "January, 2006" }}</span>
+                  </span>
+                </div>
+             </div>
+          </div>
+          {{end}}
+          {{end}}
+          
+        </div>
+      </div>
+
+{{ partial "footer.html" . }}

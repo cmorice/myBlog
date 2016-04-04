@@ -8,8 +8,18 @@
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/destinations/venise/</loc>
+    <loc>http://replace-this-with-your-hugo-site.com/posts/venise/</loc>
     <lastmod>2016-04-04T13:12:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/posts/venise/venise1/</loc>
+    <lastmod>2016-02-04T13:12:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/posts/venise/venise2/</loc>
+    <lastmod>2016-01-04T13:12:48+02:00</lastmod>
   </url>
   
 </urlset>

@@ -2,7 +2,7 @@
   <div class="container-fluid content" id="home">
   <div class="row">
 
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "destinations") }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "destination") }}
     {{ range $paginator.Pages }}
 
     <div class="list col-sm-6 col-xs-12">

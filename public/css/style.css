@@ -105,6 +105,11 @@ img {
   font-weight:600;
 }
 
+#moreArticles a {
+  color: inherit;
+  text-transform: inherit;
+}
+
 .more {
 }
 
