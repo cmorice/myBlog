@@ -1,0 +1,186 @@
+/* Styles go here */
+body {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+th, td {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 24px;
+  text-transform : uppercase;
+  letter-spacing: 1px;
+  color: #222222;
+}
+
+.navbar {
+  margin-bottom:0;
+  border:none;
+}
+
+.center {
+  text-align:center;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+#home {
+    padding-top: 0
+}
+
+#header {
+    margin-bottom: 30px;
+}
+
+#logo {
+  text-align:center;
+  padding:30px 0;
+}
+
+#banner {
+  height: 300px;
+  background-image: url('http://themes.themegoods2.com/letsblog/wp-content/uploads/2015/07/1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#header nav li {
+  text-transform: uppercase;
+  font-size:12px;
+  font-weight:600;
+}
+
+.content {
+  padding: 0 60px;
+}
+
+
+
+img {
+  max-width: 100%;
+}
+
+.content .full {
+  width: 100%;
+  height: auto;
+  margin: 20px 0 20px 0;
+}
+
+.content p {
+  padding: 10px 0;
+}
+
+.list {
+  margin-bottom:30px;
+}
+
+.article .title {
+  font-size:36px;
+  background-color:#f9f9f9;
+  padding: 30px 0;
+  margin: 10px 0;
+}
+
+.article .title h2{
+  margin: 0;
+}
+
+.article .title, .list .title, .more .title {
+  text-align: center;
+}
+
+#moreArticles {
+  text-align:center;
+  text-transform:uppercase;
+  padding: 10px 0;
+  font-weight:600;
+}
+
+.more {
+}
+
+.more .title > span{
+    font-size:14px;
+    text-transform:uppercase;
+    padding: 5px 0;
+    display: block;
+}
+
+.moreArticle{
+  margin-bottom:10px;
+}
+
+ .list .image {
+  text-align:center;
+}
+
+.article img {
+  margin:auto;
+  display:block;
+}
+
+a {
+  color: rgb(244, 182, 98);
+}
+
+a:hover {
+  color:#222222;
+  text-decoration:none;
+}
+
+.readMore {
+  display:block;
+  text-align:right;
+  text-transform: uppercase;
+  font-weight:600;
+  /*color: rgb(140, 213, 220);*/
+}
+
+.postDate {
+   color: rgb(244, 182, 98);
+   font-style: italic;
+  position: relative;
+  width: 150px;
+  margin: auto;
+}
+
+.postDate > span:before {
+    content: "";
+    border-bottom: 1px solid rgb(244, 182, 98);
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    z-index: 0;
+}
+
+.postDate > span > span {
+  display: inline-block;
+  padding: 0 1.2em;
+  position:relative;
+  background:white;
+  z-index:2;
+}
+
+.subtitle {
+    display: inline-block;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 15px;
+    border-top: 1px solid rgb(244, 182, 98);
+    color: rgb(244, 182, 98);
+    font-size: 11px;
+    font-weight: 400;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+

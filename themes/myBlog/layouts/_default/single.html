@@ -1,0 +1,74 @@
+{{ partial "header.html" . }}
+
+<div class="article">
+                  <div class="title">
+                    <h2>{{ .Title }}</h2>
+                    <div class="subtitle">
+                      <span>
+                        <span>{{ .Date.Format "January, 2006" }}</span>
+                      </span>
+                    </div>
+                 </div>
+                    
+      <div class="container-fluid content">
+        <div class="row">
+                <div id="content">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    
+        </div>
+
+                <div id="moreArticles">
+          <span>Articles liés</span>
+         </div>
+             
+      <div class="container more">        
+        <div class="row">
+          <div class="moreArticle col-sm-4 col-xs-12">
+            <div class="image">
+                <img src="http://themes.themegoods2.com/letsblog/wp-content/uploads/2015/07/photography_2-700x529.jpg"/>
+              </div>
+              <div class="title">
+                <span>Aller à Venise</span>
+                <div class="postDate">
+                  <span>
+                    <span>Octobre 2015</span>
+                  </span>
+                </div>
+             </div>
+          </div>
+          
+          <div class="moreArticle col-sm-4 col-xs-12">
+            <div class="image">
+                <img src="http://themes.themegoods2.com/letsblog/wp-content/uploads/2015/07/snow-winter-fallen-trees-700x529.jpg"/>
+              </div>
+              <div class="title">
+                <span>Le palais des doges</span>
+                <div class="postDate">
+                  <span>
+                    <span>Octobre 2015</span>
+                  </span>
+                </div>
+             </div>
+          </div>
+          
+          <div class="moreArticle col-sm-4 col-xs-12">
+            <div class="image">
+                <img src="http://themes.themegoods2.com/letsblog/wp-content/uploads/2015/07/02-700x529.jpg"/>
+              </div>
+              <div class="title">
+                <span>Murano et Burano</span>
+                <div class="postDate">
+                  <span>
+                    <span>Octobre 2015</span>
+                  </span>
+                </div>
+             </div>
+          </div>
+          
+        </div>
+      </div>
+
+{{ partial "footer.html" . }}
