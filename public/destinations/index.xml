@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Destinations on Lets Blog</title>
-    <link>http://replace-this-with-your-hugo-site.com/destinations/</link>
+    <link>http://cmorice.github.io/myBlog/public/destinations/</link>
     <description>Recent content in Destinations on Lets Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Mon, 04 Apr 2016 13:12:48 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/destinations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cmorice.github.io/myBlog/public/destinations/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Venise</title>
-      <link>http://replace-this-with-your-hugo-site.com/destinations/venise/</link>
+      <link>http://cmorice.github.io/myBlog/public/destinations/venise/</link>
       <pubDate>Mon, 04 Apr 2016 13:12:48 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/destinations/venise/</guid>
+      <guid>http://cmorice.github.io/myBlog/public/destinations/venise/</guid>
       <description>&lt;p&gt;Lorem ipsum dosectetur adipisicing elit, sed do.Lorem ipsum dolor sit amet, consectetur Nulla fringilla purus at leo dignissim congue. Mauris elementum accumsan leo vel tempor. Sit amet cursus nisl aliquam. Aliquam et elit eu nunc …&lt;/p&gt;
 
 

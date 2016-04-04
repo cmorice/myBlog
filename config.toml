@@ -1,3 +1,3 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://cmorice.github.io/myBlog/public/"
 languageCode = "fr-FR"
 title = "Lets Blog"
