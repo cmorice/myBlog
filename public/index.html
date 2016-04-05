@@ -6,7 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" media="screen">
+    <link rel="stylesheet" href="http://cmorice.github.io/myBlog/public/css/font-awesome.min.css">
     <link rel="stylesheet" href="http://cmorice.github.io/myBlog/public/css/style.css">
+    <link rel="stylesheet" href="http://cmorice.github.io/myBlog/public/css/navbar.css">
    
   </head>
   <body>
@@ -18,23 +20,40 @@
     	    		<img src="http://themes.themegoods2.com/letsblog/wp-content/themes/letsblog/images/logo@2x.png" alt="" width="251" height="143"/>
     	    </a>
       </div>
+
+
       
 <nav class="navbar navbar-default">
   <div class="container-fluid">
 
-<div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand visible-xs-inline" href="#">Lets Blog</a>
+<div class="mobile-menu">
+ <ul class="list-unstyled main-menu">
+ 
+    
+    <li class="text-right"><a href="#" id="nav-close">X</a></li>
+    <li><a href="#">Accueil <span class="icon"></span></a></li>
+    <li><a href="#">Voyages</a>
+      <ul class="list-unstyled">
+          <li class="sub-nav"><a href="#">Venise <span class="icon"></span></a></li>
+          <li class="sub-nav"><a href="#">Milan <span class="icon"></span></a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+ 
+<div class="visible-xs-block">      
+    <a class="navbar-brand" href="#">Lets Blog</a>
+    <div class="pull-right">
+      <a id="nav-expander" class="nav-expander">
+        <i class="fa fa-bars fa-lg white"></i>
+      </a>
     </div>
+</div>
+
 
     
-    <div class="">
-      <ul class="nav navbar-nav navbar-collapse" id="menu">
+    <div class="hidden-xs" id="menu">
+      <ul class="nav navbar-nav">
         <li><a href="http://cmorice.github.io/myBlog/public/">Accueil</a></li>
         <li><a href="#">Voyages</a></li>
       </ul>
@@ -53,7 +72,7 @@
     
     
 
-    <div class="list col-sm-6 col-xs-12">
+    <div class="list col-sm-6 col-xs-12 col-lg-4">
           <div class="image">
             <img src="http://themes.themegoods2.com/letsblog/wp-content/uploads/2015/07/33dca3b1ecb01a7d-2012_WeAre-TheRhoads_oct_KinfolkVol5_10_o-700x529.jpg"/>
           </div>
@@ -75,6 +94,10 @@
     
 </div>
 </div>
+
+   <div id="footer">
+   		Copyright (c) 2016 Charlotte Morice. Tous droits réservés.
+   </div>
 
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="https://bootswatch.com/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>

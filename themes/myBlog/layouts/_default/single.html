@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<div class="article">
+<div class="container article">
                   <div class="title">
                     <h2>{{ .Title }}</h2>
                     <div class="subtitle">
@@ -9,24 +9,51 @@
                     </div>
                  </div>
                     
-      <div class="container-fluid content">
-        <div class="row">
                 <div id="content">
                     {{ .Content }}
                 </div>
-            </div>
-        </div>
     
+</div>
+
+      {{$group := .Params.group}}
+      {{ range where .Site.Pages "Params.group" $group }}
+      {{ if eq .Type "destination"}}
+
+        <div id="moreArticles">
+          <span>Cet article fait parti de la section</span>
+         </div>
+
+        <div class="container section">
+
+          <div class="caption row">
+          <div class="col-xs-12 col-sm-3">
+          <img alt='' src='{{ .Params.image }}'class='img-responsive img-rounded' height='200' />
+          </div>
+           <div class="col-xs-12 col-sm-9">
+                     <div class="title">
+            <a href="{{ .Permalink }}"><span>{{ .Title}}</span></a>
+            <div class="date">
+                <span>{{ .Date.Format "January, 2006" }}</span>
+            </div>
+          </div>
+          <p>{{ .Summary }}</p>
+          </div>
         </div>
 
-                <div id="moreArticles">
+        </div>
+
+        {{end}}
+        {{end}}
+
+
+         <div id="moreArticles">
           <span>Articles liés</span>
          </div>
              
       <div class="container more">        
         <div class="row">
 
-    {{$group := .Params.group}}
+
     {{ range where .Site.Pages "Params.group" $group }}
     {{ if not (eq .Type "destination")}}
 

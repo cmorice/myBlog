@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<div class="article">
+<div class="article container">
                   <div class="title">
                     <h2>{{ .Title }}</h2>
                     <div class="subtitle">
@@ -9,15 +9,11 @@
                     </div>
                  </div>
                     
-      <div class="container-fluid content">
-        <div class="row">
                 <div id="content">
                     {{ .Content }}
                 </div>
             </div>
-        </div>
     
-        </div>
 
                 <div id="moreArticles">
           <span>Articles liés</span>

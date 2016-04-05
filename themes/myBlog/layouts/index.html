@@ -5,7 +5,7 @@
     {{ $paginator := .Paginate (where .Data.Pages "Type" "destination") }}
     {{ range $paginator.Pages }}
 
-    <div class="list col-sm-6 col-xs-12">
+    <div class="list col-sm-6 col-xs-12 col-lg-4">
           <div class="image">
             <img src="{{ .Params.image }}"/>
           </div>
