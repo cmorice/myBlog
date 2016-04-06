@@ -1,8 +1,8 @@
 +++
 date = "2016-04-04T13:12:48+02:00"
-draft = true
+draft = false
 title = "Milan"
-image = "http://themes.themegoods2.com/letsblog/wp-content/uploads/2015/07/photography_2-700x529.jpg"
+image = "https://farm6.staticflickr.com/5772/23029539779_0e29b23dbc_k.jpg"
 type = "destination"
 group = "milan"
 
