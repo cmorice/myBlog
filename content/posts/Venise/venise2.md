@@ -2,14 +2,13 @@
 date = "2016-01-04T13:12:48+02:00"
 draft = false
 title = "Aller à Venise"
-image = "https://farm6.staticflickr.com/5780/23108881660_a6f2c23c07_k.jpg"
+image = "./Venise/images/gondole.jpg"
 group = "venise"
 type = "article"
 +++
 
 
- {{< figure src="https://farm6.staticflickr.com/5780/23108881660_a6f2c23c07_k.jpg" >}}
-
+![San Marco](../../Venise/images/gondole.jpg")
 
 ### Quand partir ?
 Je me suis beaucoup posé cette question avant d'acheter mes billets d'avion. Et puis finalement, nous n'avons pas eu vraiment le choix de la date car nous voulions profiter des congés suite à notre PACS. Nous nous sommes pacsés le 13 octobre et sommes partis du 28 octobre au 1er novembre. Mais tous les guides vous le dirons :

@@ -39,7 +39,9 @@ h2 {
 
 .navbar {
   margin-bottom:0;
-  border:none;
+  border-radius: none;
+  box-shadow : 0 8px 15px rgba(0,0,0,0.1);
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .center {
@@ -73,7 +75,7 @@ h2 {
 
 #header .nav li {
   text-transform: uppercase;
-  font-size:12px;
+  font-size:18px;
   font-weight: bold;
 }
 
