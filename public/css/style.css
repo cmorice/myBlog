@@ -1,4 +1,7 @@
 /* Styles go here */
+
+
+
 body {
   font-family: Verdana, Geneva, sans-serif;
   color: #2d2f33;
@@ -14,10 +17,19 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 26px;
   text-transform : uppercase;
   letter-spacing: 1px;
   color: #222222;
+}
+
+.title {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.moreArticle .title {
+  margin: 5px;
+  font-size: 18px;
 }
 
 .moreArticle .title a {
@@ -71,7 +83,8 @@ h2 {
 
 #header .nav li a:hover {
   color:rgb(244, 182, 98);
-} 
+}
+
 
 .content {
   /*padding: 0 60px;*/
@@ -89,7 +102,7 @@ img {
   margin: 20px 0 20px 0;
 }
 
-.content p {
+#content p {
   padding: 10px 0;
 }
 
@@ -112,14 +125,15 @@ img {
   text-align: center;
 }
 
-#moreArticles {
+.moreTitle {
+  font-family: 'Open Sans Condensed', sans-serif;
   text-align:center;
   text-transform:uppercase;
   padding: 10px 0;
-  font-weight:600;
-  font-size:12px;
-  background-color: #f9f9f9;
-  margin: 10px 0;
+  font-size:18px;
+  background-color: #2d2f33;
+  margin: 50px 0;
+  color:white;
 }
 
 #moreArticles a {
@@ -132,15 +146,20 @@ img {
   margin: 15px 0;
 }
 
-.more .title > span{
-    font-size:14px;
+
+.more .title > span {
+    font-size:16px;
     text-transform:uppercase;
     padding: 5px 0;
     display: block;
 }
 
-.moreArticle{
+.moreArticle {
   margin-bottom:10px;
+}
+
+.section .title {
+  font-size:16px;
 }
 
 .section .title a {
@@ -172,6 +191,7 @@ a:hover {
 }
 
 .readMore {
+  font-family: 'Open Sans Condensed', sans-serif;
   display:block;
   text-align:right;
   text-transform: uppercase;
@@ -184,6 +204,7 @@ a:hover {
   position: relative;
   width: 150px;
   margin: auto;
+  font-size:16px;
 }
 
 .date {
@@ -215,7 +236,7 @@ a:hover {
     padding-top: 15px;
     border-top: 1px solid rgb(244, 182, 98);
     color: rgb(244, 182, 98);
-    font-size: 11px;
+    font-size: 14px;
     font-weight: 400;
     letter-spacing: 5px;
     text-transform: uppercase;

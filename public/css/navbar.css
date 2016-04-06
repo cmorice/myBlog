@@ -76,6 +76,7 @@ body.nav-expanded {
 }
 
 .main-menu li {
+  text-transform: uppercase;
   border-bottom: 1px solid #FFFFFF;
   margin-left: 20px;
   font-size: 14px;

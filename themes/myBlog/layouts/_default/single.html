@@ -16,10 +16,12 @@
 </div>
 
       {{$group := .Params.group}}
+      {{$title := .Title}}
+
       {{ range where .Site.Pages "Params.group" $group }}
       {{ if eq .Type "destination"}}
 
-        <div id="moreArticles">
+        <div class="moreTitle">
           <span>Cet article fait parti de la section</span>
          </div>
 
@@ -46,7 +48,7 @@
         {{end}}
 
 
-         <div id="moreArticles">
+        <div class="moreTitle">
           <span>Articles liés</span>
          </div>
              
@@ -55,7 +57,7 @@
 
 
     {{ range where .Site.Pages "Params.group" $group }}
-    {{ if not (eq .Type "destination")}}
+    {{ if and (not (eq .Type "destination")) (not (eq .Title $title))}}
 
           <div class="moreArticle col-sm-4 col-xs-12">
             <div class="image">
