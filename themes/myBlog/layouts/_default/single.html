@@ -57,7 +57,7 @@
 
 
     {{ range where .Site.Pages "Params.group" $group }}
-    {{ if and (not (eq .Type "destination")) (not (eq .Title $title))}}
+      {{ if and (not (eq .Type "destination")) (not (eq .Title $title))}}
 
           <div class="moreArticle col-sm-4 col-xs-12">
             <div class="image">
@@ -72,10 +72,21 @@
                 </div>
              </div>
           </div>
+          {{else}}
+            <p class="text-center">Pas d'articles liés</p>
           {{end}}
           {{end}}
+
           
         </div>
+      </div>
+
+        <div class="moreTitle">
+          <span>Commentaires</span>
+         </div>
+
+      <div class="container"> 
+      {{ template "_internal/disqus.html" . }}
       </div>
 
 {{ partial "footer.html" . }}
