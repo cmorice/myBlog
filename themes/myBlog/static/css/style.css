@@ -112,6 +112,12 @@ img {
   margin-bottom:30px;
 }
 
+.list .caption > p {
+  height: 100px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .article .title {
   font-size:36px;
   background-color:#f9f9f9;

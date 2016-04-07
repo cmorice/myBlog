@@ -39,10 +39,20 @@
                 </div>
              </div>
           </div>
+          {{else}}
+            <p class="text-center">Pas d'articles liés</p>
           {{end}}
           {{end}}
           
         </div>
+      </div>
+
+        <div class="moreTitle">
+          <span>Commentaires</span>
+         </div>
+
+      <div class="container"> 
+      {{ template "_internal/disqus.html" . }}
       </div>
 
 {{ partial "footer.html" . }}

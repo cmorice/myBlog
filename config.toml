@@ -1,3 +1,4 @@
 baseurl = "http://cmorice.github.io/myBlog/public/"
 languageCode = "fr-FR"
 title = "Lets Blog"
+disqusShortname = "une-bretonne-en-vadrouille"
