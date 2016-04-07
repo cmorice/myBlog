@@ -28,7 +28,7 @@
 
           <div class="moreArticle col-sm-4 col-xs-12">
             <div class="image">
-                <a href="{{ .Permalink }}"><img src="{{ .Params.image }}"/></a>
+                <a href="{{ .Permalink }}"><img src="{{ .Params.image | absURL }}"/></a>
               </div>
               <div class="title">
                 <a href="{{ .Permalink }}"><span>{{ .Title}}</span></a>
@@ -39,8 +39,6 @@
                 </div>
              </div>
           </div>
-          {{else}}
-            <p class="text-center">Pas d'articles liés</p>
           {{end}}
           {{end}}
           
