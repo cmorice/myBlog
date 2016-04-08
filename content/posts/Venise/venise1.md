@@ -2,13 +2,13 @@
 date = "2016-02-04T13:12:48+02:00"
 draft = false
 title = "Murano et Burano"
-image = "/images/venise/burano.jpg"
+image = "https://farm2.staticflickr.com/1525/25700212574_bb84876f8a_b.jpg"
 group = "venise"
 type = "article"
 +++
 
 
-{{< absimg src="/images/venise/burano.jpg" >}}
+![Burano](https://farm2.staticflickr.com/1525/25700212574_bb84876f8a_b.jpg)
 
 Lorem ipsum dosectetur adipisicing elit, sed do.Lorem ipsum dolor sit amet, consectetur Nulla fringilla purus at leo dignissim congue. Mauris elementum accumsan leo vel tempor. Sit amet cursus nisl aliquam. Aliquam et elit eu nunc …
 
