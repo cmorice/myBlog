@@ -12,11 +12,12 @@ type = "article"
 
 
 ### Visite du palais des Doges
+
+
+{{< figure src="https://farm1.staticflickr.com/623/22835014454_f42c877a9b_b.jpg" >}}
+{{< figure src="https://farm6.staticflickr.com/5747/22771162953_61e0ffafe5_b.jpg" >}}
+
 ![Le pont des soupirs](https://farm6.staticflickr.com/5710/23463400255_6ac2df3e02_b.jpg)
-
-{{< figure src="https://farm1.staticflickr.com/623/22835014454_f42c877a9b_b.jpg" class="col-md-6" >}}
-{{< figure src="https://farm6.staticflickr.com/5747/22771162953_61e0ffafe5_b.jpg" class="col-md-6" >}}
-
 
 {{< figure src="https://farm6.staticflickr.com/5730/23372679721_9c9abcd6d5_b.jpg" class="col-md-6" >}}
 
