@@ -255,6 +255,24 @@ a:hover {
     text-transform: uppercase;
 }
 
+.list-posts-share {
+  height: 40px;
+}
+
+.list-posts-share a {
+  font-size: 25px;
+  color: #2d2f33;
+  padding: 5px;
+}
+
+.list-posts-share a:hover {
+    color: rgb(244, 182, 98);
+}
+
+.list-posts-share div {
+  float: right;
+}
+
 #footer {
   background-color: #2d2f33;
   text-align:center;

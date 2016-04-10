@@ -8,18 +8,27 @@
                       </span>
                     </div>
                  </div>
-                    
+
                 <div id="content">
                     {{ .Content }}
                 </div>
+                <div class="list-posts-share">
+                  <div>
+                						<a target="_blank" href="#"><i class="fa fa-facebook"></i></a>
+                						<a target="_blank" href="#"><i class="fa fa-twitter"></i></a>
+                						<a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
+                						<a target="_blank" href="#"><i class="fa fa-pinterest"></i></a>
+                </div>
+                </div>
+
             </div>
-    
+
 
         <div class="moreTitle">
           <span>Articles liés</span>
          </div>
-             
-      <div class="container">        
+
+      <div class="container">
         <div class="row more">
 
     {{$group := .Params.group}}
@@ -41,7 +50,7 @@
           </div>
           {{end}}
           {{end}}
-          
+
         </div>
       </div>
 
@@ -49,7 +58,7 @@
           <span>Commentaires</span>
          </div>
 
-      <div class="container"> 
+      <div class="container">
       {{ template "_internal/disqus.html" . }}
       </div>
 
