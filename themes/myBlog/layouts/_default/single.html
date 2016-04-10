@@ -8,11 +8,11 @@
                       </span>
                     </div>
                  </div>
-                    
+
                 <div id="content">
                     {{ .Content }}
                 </div>
-    
+
 </div>
 
       {{$group := .Params.group}}
@@ -29,7 +29,7 @@
 
           <div class="caption row">
           <div class="col-xs-12 col-sm-3">
-          <img alt='' src='{{ .Params.image | absURL }}'class='img-responsive img-rounded' height='200' />
+          <img alt='' src='{{ .Params.image | absURL }}'class='img-responsive' height='200' />
           </div>
            <div class="col-xs-12 col-sm-9">
                      <div class="title">
@@ -51,8 +51,8 @@
         <div class="moreTitle">
           <span>Articles liés</span>
          </div>
-             
-      <div class="container">        
+
+      <div class="container">
         <div class="row more">
 
 
@@ -75,7 +75,7 @@
           {{end}}
           {{end}}
 
-          
+
         </div>
       </div>
 
@@ -83,7 +83,7 @@
           <span>Commentaires</span>
          </div>
 
-      <div class="container"> 
+      <div class="container">
       {{ template "_internal/disqus.html" . }}
       </div>
 

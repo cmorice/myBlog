@@ -41,7 +41,7 @@ Le notre était situé dans le quartier de Canneregio. Je dois dire que l'emplac
 et la place St Marc ! L'avantage d'un AirBnB par rapport à un hotel c'est que l'on dispose d'une cuisine permettant
 de faire sa popote plutôt que d'aller au restaurant matin, midi et soir !
 
-Le train était arrivé 30 minutes plus tôt que notre rendez-vous avec le propriétaire, du coup nous avons voulu faire le trajet à pied plutôt qu'en vaporetto.Histoire de visiter un peu. Mauvaise idée. D'abord parce qu'à Venise 
+Le train était arrivé 30 minutes plus tôt que notre rendez-vous avec le propriétaire, du coup nous avons voulu faire le trajet à pied plutôt qu'en vaporetto.Histoire de visiter un peu. Mauvaise idée. D'abord parce qu'à Venise
 il y a beaucoup de ponts. Et quand je dis beaucoup ça veut dire 190 (!). Comme vous l'imaginez, avec la valise à trainer c'est plutôt galère.
 Ensuite, parce que Venise est un vrai labyrinthe. Difficile de suivre le gps (quand on le capte, car avec les rues étroites
 de Venise ce n'est pas toujours évident), avec ses bagages sous les bras qu'il faut sans cesse soulever pour franchir les ponts.
@@ -62,3 +62,5 @@ Le bateau n'est pas très grand et il y a beaucoup de monde, si vous avez le cho
 * Les plans et horaires des lignes alilaguna (depuis/vers l'aéroport) : [http://www.alilaguna.it/fr](http://www.alilaguna.it/fr)
 * Notre AirBnb :
 * Les horaires/prix pour faire un trajet en train Milan->Venise : [https://www.captaintrain.com/](https://www.captaintrain.com/)
+
+![Carte](https://api.mapbox.com/styles/v1/cmorice/cimunwbt100az9wnjasklxru9/static/12.336862,45.456111,10.70,0.00,0.00/600x400?access_token=pk.eyJ1IjoiY21vcmljZSIsImEiOiJjaW11bnRocnkwMDgyd2VtMnM4eWdoYmdmIn0.5XzsInN_Lic1A3ZIKxYn0w)
