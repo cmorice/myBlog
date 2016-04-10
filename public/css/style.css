@@ -14,6 +14,11 @@ th, td {
 h1 {
   text-align: center;
   text-transform: uppercase;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h1 span {
+  color: #80d5d8;
 }
 
 h2 {
@@ -257,4 +262,3 @@ a:hover {
   padding:20px;
   font-size:11px;
 }
-
