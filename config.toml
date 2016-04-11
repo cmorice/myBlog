@@ -1,7 +1,14 @@
 baseurl = "http://cmorice.github.io/myBlog/public/"
 languageCode = "fr-FR"
-title = "Lets Blog"
+title = "Une Bretonne en vadrouille"
 disqusShortname = "une-bretonne-en-vadrouille"
+keywords = [
+	"voyage",
+	"photographie",
+	"blog de voyage",
+	"blog de photo"
+	]
 
 [params]
 ua = "UA-76209352-1"
+description = "Blog de voyage et photographie"

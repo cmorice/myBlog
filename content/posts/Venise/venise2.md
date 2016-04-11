@@ -6,6 +6,11 @@ image = "https://farm2.staticflickr.com/1608/26347436195_0d0f59f07e_b.jpg"
 group = "venise"
 type = "article"
 description = "Balade dans le quartier réputé de Venise : Place San Marco, palais des Doges, campanile."
+keywords = [
+	"Piazza San Marco",
+	"Campanile",
+	"Doges",
+	]
 +++
 
 ![](https://farm2.staticflickr.com/1608/26347436195_0d0f59f07e_b.jpg)

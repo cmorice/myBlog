@@ -6,6 +6,12 @@ image = "https://farm2.staticflickr.com/1545/26032212580_05afe9fffb_b.jpg"
 type = "destination"
 group = "venise"
 description = "Venise est LA destination par excellence pour des vacances romantiques. Alors pour profiter de nos congés suite à notre PACS, c'était la destination rêvée ! Déambulation dans Venise, visite de Murano et Burano, visite du palais des doges..."
+keywords = [
+	"venise",
+	"aller à venise",
+	"partir à venise",
+	"photo de venise"
+	]
 +++
 
 ![Venise](https://farm2.staticflickr.com/1545/26032212580_05afe9fffb_b.jpg)

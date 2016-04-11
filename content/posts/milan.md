@@ -6,6 +6,10 @@ image = "https://farm2.staticflickr.com/1543/25700211964_9303fd212e_b.jpg"
 type = "destination"
 group = "milan"
 description = "Nous avons profité de l'exposition universelle pour visiter Milan pendant 2 jours."
+keywords = [
+	"Milan",
+	"Duomo"
+	]
 +++
 
 ![El Duomo](https://farm2.staticflickr.com/1543/25700211964_9303fd212e_b.jpg)
