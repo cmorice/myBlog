@@ -1,10 +1,11 @@
 +++
 date = "2016-01-04T13:12:48+02:00"
 draft = false
-title = "Visite de San Marco : palais des Doges, campanile..."
+title = "Visite de San Marco"
 image = "https://farm2.staticflickr.com/1608/26347436195_0d0f59f07e_b.jpg"
 group = "venise"
 type = "article"
+description = "Balade dans le quartier réputé de Venise : Place San Marco, palais des Doges, campanile."
 +++
 
 ![](https://farm2.staticflickr.com/1608/26347436195_0d0f59f07e_b.jpg)

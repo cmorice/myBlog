@@ -5,11 +5,8 @@ title = "Venise"
 image = "https://farm2.staticflickr.com/1545/26032212580_05afe9fffb_b.jpg"
 type = "destination"
 group = "venise"
+description = "Venise est LA destination par excellence pour des vacances romantiques. Alors pour profiter de nos congés suite à notre PACS, c'était la destination rêvée ! Déambulation dans Venise, visite de Murano et Burano, visite du palais des doges..."
 +++
-
-Venise est LA destination par excellence pour des vacances romantiques. Alors pour profiter de nos congés suite à notre PACS, c'était la destination rêvée ! Déambulation dans Venise, visite de Murano et Burano, visite du palais des doges...
-
-<!--more-->
 
 ![Venise](https://farm2.staticflickr.com/1545/26032212580_05afe9fffb_b.jpg)
 
@@ -60,7 +57,7 @@ Le bateau n'est pas très grand et il y a beaucoup de monde, si vous avez le cho
 ### En pratique
 * Les plans et horaires des lignes de vaporetto : [http://actv.avmspa.it/en/content/water-bus-service-timetable-0](http://actv.avmspa.it/en/content/water-bus-service-timetable-0)
 * Les plans et horaires des lignes alilaguna (depuis/vers l'aéroport) : [http://www.alilaguna.it/fr](http://www.alilaguna.it/fr)
-* Notre AirBnb :
+* Notre AirBnb : [https://www.airbnb.fr/rooms/5317049](https://www.airbnb.fr/rooms/5317049)
 * Les horaires/prix pour faire un trajet en train Milan->Venise : [https://www.captaintrain.com/](https://www.captaintrain.com/)
 
 ![Carte](https://api.mapbox.com/styles/v1/cmorice/cimunwbt100az9wnjasklxru9/static/12.336862,45.456111,10.70,0.00,0.00/600x400?access_token=pk.eyJ1IjoiY21vcmljZSIsImEiOiJjaW11bnRocnkwMDgyd2VtMnM4eWdoYmdmIn0.5XzsInN_Lic1A3ZIKxYn0w)

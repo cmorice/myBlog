@@ -28,6 +28,17 @@ h2 {
   color: #222222;
 }
 
+.dropdown-menu {
+  padding: 0;
+  border: 0;
+  background-color : #f8f8f8;
+}
+
+.dropdown-menu > li > a {
+    font-weight: bold;
+    color: #555
+}
+
 .title {
     font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -85,7 +96,7 @@ h2 {
 }
 
 #header .nav li a {
-  color: #2d2f33;
+  /*color: #2d2f33;*/
 }
 
 #header .nav li a:hover {
