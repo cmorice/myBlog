@@ -139,7 +139,7 @@ img {
 }
 
 .list .caption > p {
-  height: 100px;
+  height: 50px;
   overflow: hidden;
   text-overflow: ellipsis;
 }

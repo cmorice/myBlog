@@ -5,7 +5,7 @@ title = "Aller à Venise"
 image = "https://farm2.staticflickr.com/1545/26032212580_05afe9fffb_b.jpg"
 type = "article"
 group = "venise"
-description = "Venise est LA destination par excellence pour des vacances romantiques. Alors pour profiter de nos congés suite à notre PACS, c'était la destination rêvée ! Déambulation dans Venise, visite de Murano et Burano, visite du palais des doges..."
+description = "Tout ce qu'il faut savoir pour aller et se déplacer à Venise."
 keywords = [
 	"venise",
 	"aller à venise",
