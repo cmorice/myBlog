@@ -43,6 +43,16 @@ h2 {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
+#home .title a {
+  color: inherit;
+}
+
+#home .title .group {
+  display: block;
+  margin-top: -10px;
+  text-transform: capitalize;
+}
+
 .moreArticle .title {
   margin: 5px;
   font-size: 18px;

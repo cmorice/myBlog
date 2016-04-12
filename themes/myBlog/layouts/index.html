@@ -1,9 +1,9 @@
 {{ partial "header.html" . }}
   <div class="container-fluid content" id="home">
-  <div class="row">
 
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "destination") }}
-    {{ range $paginator.Pages }}
+  
+<div class="row"> 
+    {{ range first 3 (where .Data.Pages.ByPublishDate "Type" "article")}}
 
     <div class="list col-sm-6 col-xs-12 col-lg-4">
           <div class="image">
@@ -11,6 +11,7 @@
           </div>
           <div class="title">
             <h2>{{ .Title }}</h2>
+            <span class="group">{{ .Params.group}}</span>
             <div class="postDate">
               <span>
                 <span>{{ .Date.Format "January, 2006" }}</span>
@@ -21,6 +22,35 @@
           <p>{{ .Description }}</p>
           <a class="readmore" href="{{ .Permalink }}">Découvrir</a>
         </div>
+    </div>
+
+    {{ end }}
+</div>
+
+  <div class="row"> 
+    <div class="moreTitle">
+      <span>Toutes les destinations</span>
+     </div>
+     </div>
+
+
+  <div class="row"> 
+
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "destination") }}
+    {{ range $paginator.Pages }}
+
+    <div class="list col-sm-6 col-xs-12 col-lg-4">
+          <div class="image">
+            <a href="{{ .Permalink }}"><img src="{{ .Params.image | absURL }}"/></a>
+          </div>
+          <div class="title">
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <div class="postDate">
+              <span>
+                <span>{{ .Date.Format "January, 2006" }}</span>
+              </span>
+            </div>
+         </div>
     </div>
     {{ end }}
     {{ template "_internal/pagination.html" . }}

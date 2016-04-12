@@ -10,23 +10,18 @@
                  </div>
 
                 <div id="content">
+                    {{ .Description }}
+
                     {{ .Content }}
                 </div>
-                
-{{ partial "share.html" . }}
-
             </div>
 
-
-        <div class="moreTitle">
-          <span>Articles liés</span>
-         </div>
 
       <div class="container">
         <div class="row more">
 
     {{$group := .Params.group}}
-    {{ range where .Site.Pages "Params.group" $group }}
+    {{ range where .Site.Pages.ByDate "Params.group" $group }}
     {{ if not (eq .Type "destination")}}
 
           <div class="moreArticle col-sm-4 col-xs-12">
