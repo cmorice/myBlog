@@ -1,6 +1,6 @@
 +++
 date = "2016-02-04T13:12:48+02:00"
-draft = true
+draft = false
 title = "Week end aux chateaux de la Loire"
 image = "https://farm2.staticflickr.com/1698/26032210400_d64ab44c2f_b.jpg"
 group = "loire"
