@@ -5,6 +5,7 @@ title = "Les chateaux de la Loire"
 image = "https://farm2.staticflickr.com/1698/26032210400_d64ab44c2f_b.jpg"
 type = "destination"
 group = "loire"
+slug = "chateaux-de-la-loire"
 description = "Découverte des chateaux de Chambord, Cheverny, Amboise et Chenonceau."
 keywords = [
 	"Chateaux de la Loire",
@@ -14,11 +15,3 @@ keywords = [
 	"Chenonceau"
 	]
 +++
-
-Lorem ipsum dosectetur adipisicing elit, sed do.Lorem ipsum dolor sit amet, consectetur Nulla fringilla purus at leo dignissim congue. Mauris elementum accumsan leo vel tempor. Sit amet cursus nisl aliquam. Aliquam et elit eu nunc …
-
-
-![Chateaux de la Loire](https://farm2.staticflickr.com/1698/26032210400_d64ab44c2f_b.jpg)
-
-
-Lorem ipsum dosectetur adipisicing elit, sed do.Lorem ipsum dolor sit amet, consectetur Nulla fringilla purus at leo dignissim congue. Mauris elementum accumsan leo vel tempor. Sit amet cursus nisl aliquam. Aliquam et elit eu nunc rhoncus viverra quis at felis. Sed do.Lorem ipsum dolor sit amet, consectetur Nulla fringilla purus Lorem ipsum dosectetur adipisicing elit at leo dignissim congue. Mauris elementum accumsan leo vel tempor.

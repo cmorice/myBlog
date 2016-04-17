@@ -18,7 +18,7 @@
 </div>
 
 
-
+{{ if not .Params.only}}
 
       {{$group := .Params.group}}
       {{$title := .Title}}
@@ -34,7 +34,9 @@
 
           <div class="caption row">
           <div class="col-xs-12 col-sm-3">
+<a href="{{ .Permalink }}">
           <img alt='' src='{{ .Params.image | absURL }}'class='img-responsive' height='200' />
+</a>
           </div>
            <div class="col-xs-12 col-sm-9">
                      <div class="title">
@@ -60,7 +62,6 @@
       <div class="container">
         <div class="row more">
 
-
     {{ range where .Site.Pages "Params.group" $group }}
       {{ if and (not (eq .Type "destination")) (not (eq .Title $title))}}
 
@@ -83,6 +84,8 @@
 
         </div>
       </div>
+
+      {{end}}
 
         <div class="moreTitle">
           <span>Commentaires</span>

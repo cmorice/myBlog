@@ -5,6 +5,7 @@ title = "Aller à Venise"
 image = "https://farm2.staticflickr.com/1545/26032212580_05afe9fffb_b.jpg"
 type = "article"
 group = "venise"
+slug = "aller-a-venise"
 description = "Tout ce qu'il faut savoir pour aller et se déplacer à Venise."
 keywords = [
 	"venise",

@@ -5,6 +5,7 @@ title = "Visite de San Marco"
 image = "https://farm2.staticflickr.com/1608/26347436195_0d0f59f07e_b.jpg"
 group = "venise"
 type = "article"
+slug = "visite-de-san-marco"
 description = "Balade dans le quartier réputé de Venise : Place San Marco, palais des Doges, campanile."
 keywords = [
 	"Piazza San Marco",
@@ -20,14 +21,10 @@ keywords = [
 ### Visite du palais des Doges
 
 
-{{< figure src="https://farm1.staticflickr.com/623/22835014454_f42c877a9b_b.jpg" >}}
-{{< figure src="https://farm6.staticflickr.com/5747/22771162953_61e0ffafe5_b.jpg" >}}
-
 ![Le pont des soupirs](https://farm6.staticflickr.com/5710/23463400255_6ac2df3e02_b.jpg)
 
-{{< figure src="https://farm6.staticflickr.com/5730/23372679721_9c9abcd6d5_b.jpg" class="col-md-6" >}}
 
-{{< figure src="https://farm1.staticflickr.com/744/22836139423_4d41424d8f_b.jpg" class="col-md-6" >}}
+![San Marco](https://farm1.staticflickr.com/744/22836139423_4d41424d8f_b.jpg)
 
 
 ### Montée sur le campanile de San Marco
