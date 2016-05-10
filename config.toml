@@ -1,6 +1,6 @@
 baseurl = "http://cmorice.github.io/myBlog/public/"
 languageCode = "fr-FR"
-title = "Une Bretonne en vadrouille"
+title = "L'esprit ailleurs"
 disqusShortname = "une-bretonne-en-vadrouille"
 keywords = [
 	"voyage",

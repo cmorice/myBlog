@@ -18,7 +18,7 @@ keywords = [
 
 
 
-### Visite du palais des Doges
+### Le palais des Doges
 
 
 ![Le pont des soupirs](https://farm6.staticflickr.com/5710/23463400255_6ac2df3e02_b.jpg)
@@ -27,5 +27,5 @@ keywords = [
 ![San Marco](https://farm1.staticflickr.com/744/22836139423_4d41424d8f_b.jpg)
 
 
-### Montée sur le campanile de San Marco
+### Le campanile de San Marco
 ![Vue depuis le campanile](https://farm2.staticflickr.com/1669/25742477684_92e0504390_b.jpg)
