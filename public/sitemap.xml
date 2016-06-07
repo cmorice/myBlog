@@ -2,48 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cmorice.github.io/myBlog/public/</loc>
-    <lastmod>2016-05-06T13:12:48+02:00</lastmod>
+    <loc>http://l-esprit-ailleurs.com/</loc>
+    <lastmod>2016-06-07T13:12:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cmorice.github.io/myBlog/public/posts/pyrenees/passerelle-d-holzarte/</loc>
+    <loc>http://l-esprit-ailleurs.com/posts/bordeaux/</loc>
+    <lastmod>2016-06-07T13:12:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://l-esprit-ailleurs.com/posts/bordeaux/la-cite-du-vin/</loc>
+    <lastmod>2016-06-07T13:12:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://l-esprit-ailleurs.com/posts/pyrenees/passerelle-d-holzarte/</loc>
     <lastmod>2016-05-06T13:12:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cmorice.github.io/myBlog/public/posts/pyrenees/pic-des-escaliers/</loc>
+    <loc>http://l-esprit-ailleurs.com/posts/pyrenees/pic-des-escaliers/</loc>
     <lastmod>2016-05-05T13:12:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cmorice.github.io/myBlog/public/posts/pyrenees/</loc>
+    <loc>http://l-esprit-ailleurs.com/posts/pyrenees/</loc>
     <lastmod>2016-05-05T13:12:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cmorice.github.io/myBlog/public/posts/chateaux-de-la-loire/</loc>
+    <loc>http://l-esprit-ailleurs.com/posts/chateaux-de-la-loire/</loc>
     <lastmod>2016-04-04T13:12:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cmorice.github.io/myBlog/public/posts/venise/murano-et-burano/</loc>
+    <loc>http://l-esprit-ailleurs.com/posts/venise/murano-et-burano/</loc>
     <lastmod>2016-02-04T13:12:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cmorice.github.io/myBlog/public/posts/loire/week-end-aux-chateaux-de-la-loire/</loc>
+    <loc>http://l-esprit-ailleurs.com/posts/loire/week-end-aux-chateaux-de-la-loire/</loc>
     <lastmod>2016-02-04T13:12:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cmorice.github.io/myBlog/public/posts/venise/aller-a-venise/</loc>
+    <loc>http://l-esprit-ailleurs.com/posts/venise/aller-a-venise/</loc>
     <lastmod>2015-10-27T13:12:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cmorice.github.io/myBlog/public/posts/venise/</loc>
+    <loc>http://l-esprit-ailleurs.com/posts/venise/</loc>
     <lastmod>2015-10-27T13:12:48+02:00</lastmod>
   </url>
   
