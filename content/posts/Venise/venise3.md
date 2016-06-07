@@ -55,8 +55,11 @@ Notre retour s'est fait en avion, directement jusqu'à Bordeaux avec Volotea. Co
 Nous avons bien entendu choisir la deuxième solution car la première est très chère ! Le billet nous a couté 15 €.
 Le bateau n'est pas très grand et il y a beaucoup de monde, si vous avez le choix entre plusieurs stations pour la prendre, préférez celle plus proche du départ !
 
+![Le grand canal](https://farm6.staticflickr.com/5808/22770242163_8516ac7eb8_b.jpg)
+
 ### En pratique
 * Les plans et horaires des lignes de vaporetto : [http://actv.avmspa.it/en/content/water-bus-service-timetable-0](http://actv.avmspa.it/en/content/water-bus-service-timetable-0)
 * Les plans et horaires des lignes alilaguna (depuis/vers l'aéroport) : [http://www.alilaguna.it/fr](http://www.alilaguna.it/fr)
 * Notre AirBnb : [https://www.airbnb.fr/rooms/5317049](https://www.airbnb.fr/rooms/5317049)
 * Les horaires/prix pour faire un trajet en train Milan->Venise : [https://www.captaintrain.com/](https://www.captaintrain.com/)
+* A faire : visiter les îles de la lagune, faire la visite itinéraires secrets du palais des doges, monter en haut du campanile de San Marco.
