@@ -2,12 +2,12 @@
 date = "2016-06-07T13:12:48+02:00"
 draft = false
 title = "La cité du vin"
-image = "https://c1.staticflickr.com/8/7452/27385719232_9f21b2210d_b.jpg"
+image = "https://c8.staticflickr.com/8/7299/27413677391_d7e15381a7_b.jpg"
 group = "bordeaux"
 type = "article"
 slug = "la-cite-du-vin"
 only = true
-description = "Découverte de la cité du vin"
+description = "Découverte en photos de la cité du vin à Bordeaux."
 keywords = [
 	"Bordeaux",
 	"vin",
