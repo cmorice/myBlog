@@ -18,15 +18,15 @@ keywords = [
 
 ![](https://farm8.staticflickr.com/7457/26333416973_862e574c51_b.jpg)
 
-Après notre première randonnée au pic des escaliers dans le pays basque dont je vous avais parlé [ici](/posts/pyrenees/pic-des-escaliers), nous partons le lendemain pour la randonnée que je tenais absolument à faire : la passerelle d'Holzarté. C'est en effet pour celle-ci que nous nous sommes aventuré dans les Pyrénées. La passerelle qui passe au-dessus des gorges d'Holzarté est unique en France. Elle fait 67m de long et surplombe 140m de vide (ou 160m selon les articles). Moi qui ne suis pas très à l'aise avec la hauteur, cela promettait des sensations fortes !
-La randonnée fait environ 14 km de long pour 5h de marche et 600m de dénivelé positif cumulé. Pour ceux qui ne veulent pas faire la randonnée en entier, la passerelle est accessible en 45 m.
+Après notre première randonnée au pic des escaliers dans le pays basque dont je vous avais parlé [ici](/posts/pyrenees/pic-des-escaliers), nous partons le lendemain pour la randonnée que je tenais absolument à faire : la passerelle d'Holzarté. C'est en effet pour celle-ci que nous nous sommes aventurés dans les Pyrénées. La passerelle qui passe au-dessus des gorges d'Holzarté est unique en France. Elle fait 67m de long et surplombe 140m de vide (ou 160m selon les articles). Moi qui ne suis pas très à l'aise avec la hauteur, cela promettait des sensations fortes !
+La randonnée fait environ 14 km de long pour 5h de marche et 600m de dénivelé positif cumulé. Pour ceux qui ne veulent pas faire la randonnée en entier, la passerelle est accessible en 45 min.
 Nous avons décidé de faire la randonnée à l'envers, pour garder la passerelle pour la fin (après environ 4h de marche donc). Comme ça, pas possible de faire demi-tour, et on est obligé de la traverser ! (Ou bien la randonnée initiale de 5h se transforme en 10h !)
 
 La randonnée commence derrière le parking de l'auberge Logibar. Pour la faire en sens inverse comme nous, il faut prendre le sentier qui monte de façon très abrupte dans la forêt. Sinon, prendre à droite au bout du parking et suivre le panneau indiquant l'accès à la passerelle.
 
 ![](https://farm8.staticflickr.com/7330/26284552633_a97b18359a_b.jpg)
 
-La montée est assez dure mais une fois sortie de la forêt le paysage est magnifique. La montée se finit complètement (même si elle est beaucoup plus douce à la fin) au niveau de la bifurcation du GR10. N'hésitez pas à sortir légèrement du sentier pour aller au point culminant de la randonnée (1000 m) d'où la vue est simplement grandiose.
+La montée est assez dure mais une fois sortis de la forêt le paysage est magnifique. La montée se finit complètement (même si elle est beaucoup plus douce à la fin) au niveau de la bifurcation du GR10. N'hésitez pas à sortir légèrement du sentier pour aller au point culminant de la randonnée (1000 m) d'où la vue est simplement grandiose.
 
 ![](https://farm8.staticflickr.com/7057/26855124986_a2783aa4d0_b.jpg)
 

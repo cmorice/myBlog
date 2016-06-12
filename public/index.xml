@@ -35,10 +35,10 @@
 &lt;p&gt;Découverte en photos&amp;hellip;&lt;/p&gt;
 
 &lt;div class=&#34;row&#34;&gt;
-&lt;div class=&#34;col-xs-6&#34;&gt;
+&lt;div class=&#34;col-xs-6&#34; style=&#34;padding: 0 5px&#34;&gt;
 &lt;img src=&#34;https://c1.staticflickr.com/8/7706/27208546400_e195c65248_b.jpg&#34; /&gt;
 &lt;/div&gt;
-&lt;div class=&#34;col-xs-6&#34;&gt;
+&lt;div class=&#34;col-xs-6&#34; style=&#34;padding: 0 5px&#34;&gt;
 &lt;img src=&#34;https://c1.staticflickr.com/8/7430/27420661512_06b7a22de6_b.jpg&#34; /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -54,17 +54,17 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div class=&#34;row&#34;&gt;
-&lt;div class=&#34;col-xs-6&#34;&gt;
+&lt;div class=&#34;col-xs-6&#34; style=&#34;padding:0px 5px;&#34;&gt;
 &lt;img src=&#34;https://c7.staticflickr.com/8/7390/26876068494_c846a128af_b.jpg&#34; /&gt;
 &lt;/div&gt;
 &lt;div class=&#34;col-xs-6&#34;&gt;
 &lt;div class=&#34;row&#34; style=&#34;margin-bottom:15px;&#34;&gt;
-&lt;div class=&#34;col-xs-12&#34; style=&#34;padding-left:0px;&#34;&gt;
+&lt;div class=&#34;col-xs-12&#34; style=&#34;padding:0px 5px;&#34;&gt;
 &lt;img src=&#34;https://c5.staticflickr.com/8/7515/27386007012_73714617cb_b.jpg&#34; /&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;row&#34; style=&#34;margin-top:15px;&#34;&gt;
-&lt;div class=&#34;col-xs-12&#34; style=&#34;padding-left:0px;&#34;&gt;
+&lt;div class=&#34;col-xs-12&#34; style=&#34;padding:0px 5px;&#34;&gt;
 &lt;img src=&#34;https://c1.staticflickr.com/8/7020/27386177232_b647d4dde8_b.jpg&#34; /&gt;
 &lt;/div&gt;
 &lt;/div&gt;

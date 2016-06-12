@@ -33,7 +33,7 @@ Après une petite dizaine de minutes en bateau, nous voilà arrivés à Murano. 
 
 ![Burano](https://farm1.staticflickr.com/608/23288893722_21f5851c11_b.jpg)
 
-La spécialité de Murano était le verre soufflé, ici c'est la dentelle. Mais ce qui nous enchante le plus à Burano ce sont les maisons aux couleurs vives. C'est une petite ville de pécheurs où il est vraiment agréable de se balader. D'ailleurs, savez pourquoi les maisons sont toutes colorées à Burano . C'était pour que les pêcheurs revenus de la mer puissent apercevoir au loin leur maison.
+La spécialité de Murano était le verre soufflé, ici c'est la dentelle. Mais ce qui nous enchante le plus à Burano ce sont les maisons aux couleurs vives. C'est une petite ville de pécheurs où il est vraiment agréable de se balader. D'ailleurs, savez pourquoi les maisons sont toutes colorées à Burano ? C'était pour que les pêcheurs revenus de la mer puissent apercevoir au loin leur maison.
 
 Comme nous avons le temps, nous profitons pour nous balader un peu sur Mazzorbo, île reliée à Burano par un pont. Quand nous reprenons le vaporetto il fait nuit, enchantés de notre petite balade sur ces îles. Si vous prévoyez de visiter Venise, une balade sur ces îles y est obligatoire, surtout à Burano !
 

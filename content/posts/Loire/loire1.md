@@ -17,7 +17,7 @@ keywords = [
 	]
 +++
 
-Pour profiter d'un box cadeau que j'avais offert il y a quelques temps à mon chéri, nous décidons d'aller passer un week-end en amoureux aux châteaux de la Loire. Comme nous n'avons qu'une nuit sur place et que nous partons de Bordeaux, nous prévoyons de visiter seulement 4 châteaux pour ces deux jours. Ce sera **Chambord** et **Cheverny** pour le samedi et **Amboise** et **Chenonceau** pour le dimanche.
+Pour profiter d'une box cadeau que j'avais offert il y a quelques temps à mon chéri, nous décidons d'aller passer un week-end en amoureux aux châteaux de la Loire. Comme nous n'avons qu'une nuit sur place et que nous partons de Bordeaux, nous prévoyons de visiter seulement 4 châteaux pour ces deux jours. Ce sera **Chambord** et **Cheverny** pour le samedi et **Amboise** et **Chenonceau** pour le dimanche.
 
 
 ### Chambord
@@ -26,9 +26,9 @@ L'entrée dans le domaine est déjà très impressionnante car passé les rempar
 
 ![Chambord](https://farm2.staticflickr.com/1701/25879617883_607bace4dc_b.jpg)
 
-Le château est immense. Nous l'avons visité au mois de février, hors saison donc. C'est agréable de se balader de pièce en pièce sans devoir faire la queue et parfois même d'être seule dans une pièce, comme si le château était à nous. Impossible en été.
+Le château est immense. Nous l'avons visité au mois de février, hors saison donc. C'est agréable de se balader de pièce en pièce sans devoir faire la queue et parfois même d'être seul dans une pièce, comme si le château était à nous. Impossible en été.
 
-Quand nous y sommes allés, le deuxième étage du château abritait une exposition photographique. Moi qui aime la photographie j'étais plutôt contente mais cela peut s'avérer un peu décevant car mise à part ces photos sur les murs cette partie du château est vraiment vide.
+Quand nous y sommes allés, le deuxième étage du château abritait une exposition photographique. Moi qui aime la photographie j'étais plutôt contente mais cela peut s'avérer un peu décevant car mis à part ces photos sur les murs cette partie du château est vraiment vide.
 
 Le plus agréable à Chambord est sans aucun doute la visite des toits, ornés d'innombrables cheminées et autres tourelles.
 
@@ -47,10 +47,10 @@ Chambord est connu pour son escalier à double révolution, imaginé par Léonar
 
 ![Cheverny](https://farm2.staticflickr.com/1698/26032210400_d64ab44c2f_b.jpg)
 
-Je voulais faire la surprise mon chéri qui est fan de Tintin. Mais des panneaux à l'entrée du château lui ont dévoilé la surprise.
+Je voulais faire la surprise à mon chéri qui est fan de Tintin. Mais des panneaux à l'entrée du château lui ont dévoilé la surprise.
 En effet, le château de Cheverny est celui qui a inspiré Hergé pour la résidence du capitaine Hadock. Il suffit de lui enlever ces deux pavillons latéraux et Cheverny se transforme en Moulinsart.
 
-Cheverny est bien différent de Chambord. Par sa taille bien sûr mais aussi par son aménagement et son ambiance. Toutes les pièces sont meublées entièrement avec beaucoup d'éléments concernant les propriétaires actuelles du château. Cheverny est vraiment un château familial.
+Cheverny est bien différent de Chambord. Par sa taille bien sûr mais aussi par son aménagement et son ambiance. Toutes les pièces sont meublées entièrement avec beaucoup d'éléments concernant les propriétaires actuels du château. Cheverny est vraiment un château familial.
 
 Le parc est agréable. Quand nous y sommes y aller il y avait un cadre nous permettant de s'amuser avec les photos.
 

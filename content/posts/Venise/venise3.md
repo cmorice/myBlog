@@ -20,7 +20,7 @@ keywords = [
 ### Quand partir ?
 Je me suis beaucoup posé cette question avant d'acheter mes billets d'avion. Et puis finalement, nous n'avons pas eu vraiment le choix de la date car nous voulions profiter des congés suite à notre PACS. Nous nous sommes pacsés le 13 octobre et sommes partis du 28 octobre au 1er novembre. Mais tous les guides vous le diront :
 le meilleur moment pour partir à Venise c'est au printemps ou en automne ! En été, n'y songez pas : la ville est envahie de touristes, les prix flambent et la circulation dans la ville est très pénible (oui, même à pied on peut avoir des bouchons, les rues sont étroites à Venise !). En hiver, la ville est beaucoup moins fréquentée bien sûr mais attention :
-vous risquez d'être en plein _Acqua Alta_ ! Fin octobre nous avons trouvé que c'était une bonne période pour y aller, il n'y a pas trop de touristes et il fait encore doux. Par contre contre, préférez peut-être y aller plus tôt dans le mois. Nous sommes partis juste après le passage à l'heure d'hiver (de rigueur également en Italie) et les jours sont très courts.
+vous risquez d'être en plein _Acqua Alta_ ! Fin octobre nous avons trouvé que c'était une bonne période pour y aller, il n'y a pas trop de touristes et il fait encore doux. Par contre, préférez peut-être y aller plus tôt dans le mois. Nous sommes partis juste après le passage à l'heure d'hiver (de rigueur également en Italie) et les jours sont très courts.
 Surtout à Venise qui est situé à l'Est.
 
 ### Notre arrivée à Venise
@@ -38,13 +38,13 @@ la gare étant le seul endroit à Venise où il est possible de circuler en voit
 
 
 ### Notre logement
-Sachez-le, les hôtels à Venise sont chers ! C'est pourquoi nous avons décidé de passer par Air bnb.
+Sachez-le, les hôtels à Venise sont chers ! C'est pourquoi nous avons décidé de passer par Air Bnb.
 Le nôtre était situé dans le quartier de Canneregio. Je dois dire que l'emplacement était idéal, à mi-chemin entre le célèbre pont du rialto et la place St Marc ! L'avantage d'un AirBnB par rapport à un hôtel c'est que l'on dispose d'une cuisine permettant de faire sa popote plutôt que d'aller au restaurant matin, midi et soir !
 
 
 Le train était arrivé 30 minutes plus tôt que notre rendez-vous avec le propriétaire, du coup nous avons voulu faire le trajet à pied plutôt qu'en vaporetto. Histoire de visiter un peu. Mauvaise idée. D'abord parce qu' Venise il y a beaucoup de ponts. Et quand je dis beaucoup ça veut dire 190 (!). Comme vous l'imaginez, avec la valise à trainer c'est plutôt galère.
-Ensuite, parce que Venise est un vrai labyrinthe. Difficile de suivre le Gps (quand on le capte, car avec les rues étroites de Venise ce n'est pas toujours évidente), avec ses bagages sous les bras qu'il faut sans cesse soulever pour franchir les ponts.
-Bref, on n'est pas arrivé avec trop de retard au lieu de rendez-vous.
+Ensuite, parce que Venise est un vrai labyrinthe. Difficile de suivre le Gps (quand on le capte, car avec les rues étroites de Venise ce n'est pas toujours évident), avec ses bagages sous les bras qu'il faut sans cesse soulever pour franchir les ponts.
+Bref, on est arrivé sans trop de retard au lieu de rendez-vous.
 Si vous ne voulez pas faire comme nous, préférez le vaporetto. C'est assez cher par contre. Comptez 8€ pour un trajet.
 
 ![Les rues de Venise](https://farm1.staticflickr.com/706/23086980109_55074932c7_b.jpg)
