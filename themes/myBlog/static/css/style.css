@@ -86,9 +86,56 @@ h2 {
     margin-bottom: 30px;
 }
 
+.social_wrapper {
+    width: auto;
+    margin: 0px;
+    padding: 15px 0;
+  }
+
+  #menu .social_wrapper {
+    right: 30px;
+    text-align: left;
+    position: absolute;
+  }
+
+  .social_wrapper ul {
+    list-style: none;
+    margin-left: 0 !important;
+    text-align: left;
+}
+
+.social_wrapper ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#menu .social_wrapper a {
+  color: inherit;
+}
+
+
+.mobile-menu .social_wrapper ul {
+  padding: 0;
+  text-align: center;
+}
+
+.mobile-menu .social_wrapper .fa {
+  font-size: 20px;
+}
+
+#menu .social_wrapper a:hover {
+  color: rgb(244, 182, 98);
+}
+
 #logo {
   text-align:center;
   padding:30px 0;
+  display: block;
+  color: inherit;
+}
+
+#logo h1 {
+  font-weight: bold;
 }
 
 #banner {
@@ -299,9 +346,45 @@ a:hover {
   text-align:center;
   color:#999999;
   padding:20px;
-  font-size:11px;
+
+}
+
+#footer #copyright{
+    font-size:11px;
+    margin-top:10px;
+}
+
+#footer h2 {
+  color: #666;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+#footer .me {
+  margin-top: 30px;
+
+  font-family: Verdana, Geneva, sans-serif;
+  font-size:12px;
+}
+
+#footer .share {
+  font-size:26px;
+  margin-top: 30px;
+}
+
+#footer .share a {
+  color:inherit;
+}
+
+#footer .share a:hover {
+  color: rgb(244, 182, 98);
 }
 
 .iframe {
   max-width: 100%;
+}
+
+.lightwidget-widget{
+  padding: 10px;
+  margin-top: 20px;
 }
