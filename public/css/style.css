@@ -28,6 +28,10 @@ h2 {
   color: #222222;
 }
 
+h3 {
+  text-align: center;
+}
+
 .dropdown-menu {
   padding: 0;
   border: 0;
@@ -177,8 +181,13 @@ img {
   margin: 20px 0 20px 0;
 }
 
-#content p {
-  padding: 10px 0;
+#content p{
+  padding: 15px;
+}
+
+#content .row {
+  margin-left: 0;
+  margin-right: 0;
 }
 
 .list {
@@ -186,7 +195,7 @@ img {
 }
 
 .list .caption > p {
-  height: 50px;
+  height: 60px;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -200,10 +209,25 @@ img {
 
 .article .title h2{
   margin: 0;
+  font-size: 30px;
 }
 
 .article .title, .list .title, .more .title {
   text-align: center;
+}
+
+.article .pitch{
+  font-weight: bold;
+  font-size: 16px;
+  padding : 0 10px;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(244, 182, 98), rgba(0, 0, 0, 0));
+  margin: 40px auto;
+  width: 80%;
 }
 
 .moreTitle {
@@ -261,6 +285,12 @@ img {
   margin:auto;
   display:block;
 }
+
+
+@media(min-width: 992px) .article p {
+  margin-left: 8%;
+}
+
 
 a {
   color: rgb(244, 182, 98);
@@ -385,6 +415,5 @@ a:hover {
 }
 
 .lightwidget-widget{
-  padding: 10px;
-  margin-top: 20px;
+  margin: 20px 10px 10px 10px;
 }
