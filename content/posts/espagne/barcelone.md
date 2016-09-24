@@ -181,7 +181,7 @@ Le parc était originalement destiné à être un lieu de résidence de haut sta
 * Le site du parc Guëll : http://www.parkguell.cat/fr/
 
 ### Sagrada Familia
-Incontournable de Barcelone, j'avais évidemment beaucoup entendu parler de la sagrada Familia avant de venir. Je me demandais si j'allais être aussi enthousiasme en la voyant que mes amis quand ils m'en parlaient.
+Incontournable de Barcelone, j'avais évidemment beaucoup entendu parler de la sagrada Familia avant de venir. Je me demandais si j'allais être aussi enthousiaste en la voyant que mes amis quand ils m'en parlaient.
 
 <div class="container">
 	<div class="row" style="padding-top: 24px">
