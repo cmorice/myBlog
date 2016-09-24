@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
-  <div class="container-fluid content" id="home">
+  <div class="content" id="home">
 
-
+<div class="container">
 <div class="row">
     {{ range first 6 (where .Data.Pages.ByPublishDate "Type" "article")}}
 
@@ -22,20 +22,22 @@
          </div>
         <div class="caption">
           <p>{{ .Description }}</p>
-          <a class="readmore" href="{{ .Permalink }}">Découvrir</a>
         </div>
     </div>
 
     {{ end }}
 </div>
+</div>
 
+<div class="container-fluid">
   <div class="row">
     <div class="moreTitle">
       <span>Toutes les destinations</span>
      </div>
-     </div>
+  </div>
+</div>
 
-
+<div class="container">
   <div class="row">
 
     {{ $paginator := .Paginate (where .Data.Pages "Type" "destination") }}
@@ -56,6 +58,7 @@
     </div>
     {{ end }}
     {{ template "_internal/pagination.html" . }}
+</div>
 </div>
 </div>
 
