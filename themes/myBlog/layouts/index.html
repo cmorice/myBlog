@@ -1,6 +1,40 @@
 {{ partial "header.html" . }}
   <div class="content" id="home">
 
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    {{ range $index, $element := first 6 (where .Data.Pages.ByPublishDate "Params.emphasize" "true")}}
+    <li data-target="#myCarousel" data-slide-to="{{$index}}" class="{{ if eq $index 0 }} active {{end}}"></li>
+    {{end}}
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    {{ range $index, $element := first 6 (where .Data.Pages.ByPublishDate "Params.emphasize" "true")}}
+
+    <div class="item {{ if eq $index 0 }} active {{end}}">
+        <div class="fill" style="background-image:url({{ .Params.imagefull | absURL }});">
+        <div class="ca-caption">
+          <h2>{{ .Title }}</h2>
+          <a href="{{ .Permalink }}">Lire l'article</a>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="icon-prev"></span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="icon-next"></span>
+  </a>
+
+</div>
+
 <div class="container">
 <div class="row">
     {{ range first 6 (where .Data.Pages.ByPublishDate "Type" "article")}}

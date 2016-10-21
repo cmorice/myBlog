@@ -3,11 +3,13 @@ date = "2016-02-04T13:12:48+02:00"
 draft = false
 title = "Week end aux chateaux de la Loire"
 image = "https://farm2.staticflickr.com/1698/26032210400_d64ab44c2f_b.jpg"
+imagefull = "https://c1.staticflickr.com/2/1550/24398303024_addc10f77c_h.jpg"
 group = "loire"
 type = "article"
 slug = "week-end-aux-chateaux-de-la-loire"
 only = true
 description = "Découverte des chateaux de Chambord, Cheverny, Amboise et Chenonceau."
+emphasize = "true"
 keywords = [
 	"Chateaux de la Loire",
 	"Chambord",

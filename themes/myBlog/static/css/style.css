@@ -32,6 +32,69 @@ h3 {
   text-align: center;
 }
 
+.fill {
+    width: 100%;
+    padding-top: 15%;
+    padding-bottom:15%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#myCarousel {
+  margin-bottom: 30px;
+}
+
+.carousel-control:hover {
+  color: rgb(244, 182, 98);
+}
+
+.carousel-control, .carousel-control:focus, .carousel-control:hover {
+    background: none;
+    background-image: none;
+    opacity: 1;
+}
+
+.carousel-control.right, .carousel-control.left {
+    background: none;
+}
+
+.ca-caption {
+  background: #ffffff;
+  background: rgba(255,255,255,0.4);
+  width: 60%;
+  margin: auto;
+  text-align:center;
+  padding:30px 40px;
+}
+
+.ca-caption h2 {
+  font-weight: bold;
+}
+
+.ca-caption h2, .ca-caption h3 {
+  color: black;
+  text-shadow: initial;
+  font-family : "Open Sans Condensed", sans-serif;
+  margin:10px;
+  text-transform: capitalize;
+}
+
+.ca-caption a {
+  border: 3px solid;
+  display: inline-block;
+  margin: auto;
+  padding:10px;
+  color: black;
+  margin-top: 10px;
+}
+
+.ca-caption a:hover {
+    border-color: rgb(244, 182, 98);
+}
+
 .dropdown-menu {
   padding: 0;
   border: 0;
@@ -87,7 +150,7 @@ h3 {
 }
 
 #header {
-    margin-bottom: 30px;
+    /*margin-bottom: 30px;*/
 }
 
 .social_wrapper {
@@ -415,5 +478,5 @@ a:hover {
 }
 
 .lightwidget-widget{
-  margin: 20px 10px 10px 10px;
+  margin: 20px 0px 5px 0px;
 }

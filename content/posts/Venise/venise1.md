@@ -3,10 +3,12 @@ date = "2016-02-04T13:12:48+02:00"
 draft = false
 title = "Murano et Burano"
 image = "https://farm2.staticflickr.com/1525/25700212574_bb84876f8a_b.jpg"
+imagefull = "https://farm2.staticflickr.com/1525/25700212574_bb84876f8a_b.jpg"
 group = "venise"
 type = "article"
 slug = "murano-et-burano"
 description = "Découverte de ces jolies îles de la lagune pour une ambiance bien différente de celle de Venise"
+emphasize = "false"
 keywords = [
 	"venise",
 	"iles venise",
