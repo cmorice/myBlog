@@ -3,7 +3,7 @@ date = "2016-11-07T13:12:48+02:00"
 draft = false
 title = "Road Trip en Islande"
 image = "https://c8.staticflickr.com/1/688/31940223351_0b7dee815c_b.jpg"
-imagefull = "https://c7.staticflickr.com/6/5658/30804333062_931efc45a7_b.jpg"
+imagefull = "https://c7.staticflickr.com/6/5658/30804333062_54ce07b012_h.jpg"
 group = "islande"
 type = "article"
 slug = "road-trip"
@@ -46,7 +46,7 @@ Si vous n'êtes pas habitué à camper, voici une petite checklist de l'équipem
 	<li>Des assiettes, tasses, couverts de camping</li>
 	<li>Une trousse de secours : désinfectant, compresses, pansements, ciseaux, doliprane, antibiotiques... Si vous comptez faire beaucoup de randonnées : bombe de froid pour les muscles, anti-inflammatoire en gel etc.</li>
 	<li>Une lampe torche</li>
-	<li>Une couteau suisse</li>
+	<li>Un couteau suisse</li>
 	<li>Un masque de nuit pour ne pas se réveiller avec le lever du jour à 5h du matin</li>
 	<li>Des batteries de secours pour les téléphones et appareils photos</li>
 	<li>De quoi s'occuper pendant les soirées : livre, jeux de cartes etc.</li>
@@ -102,6 +102,7 @@ Les routes d'Islandes sont séparées en trois catégories :
 	<li><strong>Les gravels roads.</strong> Ce sont des routes non bitumées. Elles sont accessibles aux 4x4 mais aussi aux voitures de location.</li>
 	<li><strong>Les autres routes.</strong> Accessibles pour tout le monde.</li>
 </ul>
+
 Si vous comptez voyager au centre du pays, il vous faudra impérativement louer un 4x4 car celles-ci sont accessibles uniquement par des <a href="http://www.road.is/media/umferd-og-faerd/Halendi.gif">F-roads</a> avec parfois des <a href="http://www.enviedevoyager.fr/wp-content/uploads/2012/01/40463_465996263824_725238824_6260085_1975725_n.jpg">gués</a> à traverser.
 Si vous souhaitez faire uniquement le tour de l'Islande, une simple voiture de location suffit.
 
@@ -123,14 +124,18 @@ Sur place, la carte faite par Audur sur son article de blog répertoriant les di
 
 Vous trouvez des magasins Bonus un peu partout en Islande. C'est les supermarchés les moins chers d'Islande. Dans la même gamme de prix, les magasins Kronan sont très bien également avec un peu plus de choix. Surtout évitez les 10 / 11 qui sont très chers !
 
+<p>
 <iframe src="https://maps.google.com/maps/ms?msa=0&amp;msid=204072766040958228179.0004e2a5f398ba93e3906&amp;ie=UTF8&amp;t=m&amp;ll=64.951465,-18.457031&amp;spn=3.723503,14.0625&amp;z=6&amp;output=embed" width="640" height="480" class="center-block iframe"></iframe>
+</p>
 
 <h3>Notre itinéraire pendant 3 semaines</h3>
 
 Nous avons choisi de visiter l'Islande dans <strong>le sens des aiguilles d'une montre</strong>. En effet, nous avions réservés des bateaux pour parcourir les fjors de l'ouest et c'était donc plus simple dans ce sens pour ne pas risquer d'être en retard sur nos réservations.
 Comme nous voulions absolument voir <strong>Landmanalaugar</strong>, nous avons d'abord pris le bus aller-retour de Reykjavik à Landmanalaugar et après 3 jours de randonnées, nous avons pris une petite voiture au départ de Reykjavik pour parcourir l'Islande à notre rythme.
 
+<p>
 <iframe src="https://www.google.com/maps/d/embed?mid=1OKTy-F-fXlfqeDVBq1OZfBgqWug" width="640" height="480" class="center-block iframe"></iframe>
+</p>
 
 Nous avons passé :
 <ul>
@@ -145,5 +150,7 @@ Nous avons passé :
 	<li>2 jours à Reykjavik</li>
 	<li>1 jour sur la péninsule de Keflavik</li>
 </ul>
+
+Cet article est le premier d'une série d'articles sur notre voyage en Islande. Bientôt, un article sur les randonnées de Landmanalaugar !
 
 ![](https://c7.staticflickr.com/6/5658/30804333062_931efc45a7_b.jpg)
